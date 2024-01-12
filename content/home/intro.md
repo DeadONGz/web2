@@ -19,3 +19,6 @@ author: admin
 ---
 
 Why are you here?
+p{
+    text-shadow : horizontal-shadow vertical-shadow blur color, horizontal-shadow vertical-shadow blur color;
+ }
