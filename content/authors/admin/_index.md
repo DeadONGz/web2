@@ -49,7 +49,7 @@ social:
     icon_pack: fab
     link: https://steamcommunity.com/id/y8w/
   - icon: roblox
-    icon_pack: fab
+    icon_pack: custom
     link: https://www.roblox.com/users/17095682/profile
 # Uncomment below for Github link
 #- icon: github
