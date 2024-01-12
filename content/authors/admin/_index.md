@@ -51,6 +51,9 @@ social:
   - icon: spotify
     icon_pack: fab
     link: https://open.spotify.com/user/mfhjo7cpujl1mzgqbzvhy79ja?si=6f1accb506ba4f46
+  - icon: youtube
+    icon_pack: fab
+    link: https://www.youtube.com/deadong
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
