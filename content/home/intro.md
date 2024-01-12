@@ -19,6 +19,3 @@ author: admin
 ---
 
 Why are you here?
-{style="font-size: 1.2rem; background: #A0A0A0; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
-
-Check out my [resumé](/about/) and portfolio below 😍
