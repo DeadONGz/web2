@@ -43,7 +43,7 @@ bio: 19
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
   - icon: discord
-    icon_pack: fas
+    icon_pack: hb
     link: 'de.ad' # For a direct email link, use "mailto:test@example.org".
   - icon: steam
     icon_pack: fab
