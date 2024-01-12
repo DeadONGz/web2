@@ -44,7 +44,7 @@ bio: 19
 social:
   - icon: discord
     icon_pack: fab
-    link: 'de.ad' # For a direct email link, use "mailto:test@example.org".
+    link: 'https://discordid.netlify.app/?id=196373795890528257' # For a direct email link, use "mailto:test@example.org".
   - icon: steam
     icon_pack: fab
     link: https://steamcommunity.com/id/y8w/
