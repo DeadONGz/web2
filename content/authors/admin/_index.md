@@ -48,9 +48,9 @@ social:
   - icon: steam
     icon_pack: fab
     link: https://steamcommunity.com/id/y8w/
-  - icon: roblox
+  - icon: spotify
     icon_pack: fab
-    link: https://www.roblox.com/users/17095682/profile
+    link: https://open.spotify.com/user/mfhjo7cpujl1mzgqbzvhy79ja?si=6f1accb506ba4f46
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
